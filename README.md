@@ -4,4 +4,4 @@
 
 ### Технологии, которые были применены в данном проекте: _HTML, CSS, BEM Nested, Git_
 
-#### Профиль на GitHub: https://github.com/marshennikovaolga
+#### Ссылка на сайт: https://marshennikovaolga.github.io/russian-travel/
