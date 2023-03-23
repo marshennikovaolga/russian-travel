@@ -1,0 +1,32 @@
+.lead__title {
+    margin: 0 auto;
+    padding: 0;
+    width: calc(100% - 2 * 16px);
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+}
+
+@media screen and (min-width: 768px) {
+    .lead__title {
+        font-size: 96px;
+        line-height: 100px;
+        width: calc(100% - 2 * 24px);
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lead__title {
+        width: calc(100% - 2 * 152px);
+    }
+}
+
+
+@media screen and (min-width: 1280px) {
+    .lead__title {
+        width: 720px;
+    }
+}
