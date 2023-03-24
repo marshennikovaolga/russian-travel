@@ -1,6 +1,6 @@
 .footer__copyright {
-    font-family: 'Inter', Arial, sans-serif;
-    color: #FFF;
+    font-family: "Inter", Arial, sans-serif;
+    color: #fff;
     font-style: normal;
     font-size: 14px;
     font-weight: 400;
@@ -14,5 +14,5 @@
         line-height: 16px;
         font-size: 16px;
         padding: 0;
-    }  
+    }
 }

@@ -16,7 +16,7 @@
         line-height: 46px;
         width: 340px;
         margin-bottom: 48px;
-    }   
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -24,11 +24,11 @@
         font-size: 72px;
         line-height: 76px;
         width: 440px;
-    }   
+    }
 }
 
 @media screen and (min-width: 1280px) {
     .place__title {
         width: 460px;
-    }   
+    }
 }

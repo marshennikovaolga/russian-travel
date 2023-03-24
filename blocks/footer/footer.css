@@ -1,12 +1,11 @@
 .footer {
-    font-family: 'Inter', Arial, sans-serif;
-    color: #FFF;
+    font-family: "Inter", Arial, sans-serif;
+    color: #fff;
     display: flex;
     flex-direction: column;
-    width: 58,13%;
-    margin: 64px 118px 0 16px;
+    width: 58%;
+    margin: 64px auto 16px;
     padding-bottom: 24px;
-    -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;

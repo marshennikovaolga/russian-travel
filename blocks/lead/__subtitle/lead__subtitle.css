@@ -14,17 +14,17 @@
         line-height: 36px;
         margin: 32px auto 0;
         width: calc(100% - 2 * 64px);
-    } 
+    }
 }
 
 @media screen and (min-width: 1024px) {
     .lead__subtitle {
         width: calc(100% - 2 * 144px);
-    } 
+    }
 }
 
 @media screen and (min-width: 1280px) {
     .lead__subtitle {
         width: calc(100% - 2 * 172px);
-    } 
+    }
 }

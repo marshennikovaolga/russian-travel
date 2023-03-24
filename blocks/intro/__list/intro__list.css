@@ -1,24 +1,23 @@
 .intro__list {
-    list-style: none;
-    box-sizing: border-box;
-    font-size: 12px;
-    line-height: 18px;
-    width: 288px;
-    width: 100%;
-    margin-top: 34px;
-    margin-bottom: 0;
-    padding: 0;
-  }
+  list-style: none;
+  box-sizing: border-box;
+  font-size: 12px;
+  line-height: 18px;
+  width: 288px;
+  margin-top: 34px;
+  margin-bottom: 0;
+  padding: 0;
+}
 
-  @media screen and (min-width: 768px) {
-    .intro__list {
-        margin-top: 33px;
-        width: 720px;
-    }
+@media screen and (min-width: 768px) {
+  .intro__list {
+      margin-top: 33px;
+      width: 720px;
   }
+}
 
-  @media screen and (min-width: 1024px) {
-    .intro__list {
-        width: 690px;
-    }
+@media screen and (min-width: 1024px) {
+  .intro__list {
+      width: 690px;
   }
+}

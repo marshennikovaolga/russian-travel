@@ -12,13 +12,13 @@
 }
 
 .place__link:hover {
-  opacity: 0.8;
-  cursor: pointer;
+    opacity: 0.8;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {
     .place__link {
-        width: 45,83%;
+        width: 46%;
         margin: 0 0 48px;
     }
 }

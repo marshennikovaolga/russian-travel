@@ -11,10 +11,10 @@
     .lead {
         width: calc(100% - 2 * 48px);
     }
-  }
+}
 
-  @media screen and (min-width: 1280px) {
+@media screen and (min-width: 1280px) {
     .lead {
         width: calc(100% - 2 * 148px);
     }
-  }
+}
