@@ -1,16 +1,16 @@
 .intro__title {
+    display: flex;
+    text-align: left;
     font-size: 32px;
+    height: 70px;
     line-height: 109%;
     font-style: normal;
+    letter-spacing: 0em;
     font-weight: 900;
-    padding: 0;
+    max-width: 250px;
+    padding: 0 0 40px;
     margin: 0;
-    margin-bottom: 40px;
     text-rendering: optimizeLegibility;
-    text-align: left;
-    color: #fff;
-    max-width: 288px;
-    width: 100%;
 }
 
 @media screen and (min-width: 768px) {

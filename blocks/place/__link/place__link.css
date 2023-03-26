@@ -18,7 +18,13 @@
 
 @media screen and (min-width: 768px) {
     .place__link {
-        width: 46%;
+        width: 352px;
         margin: 0 0 48px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__link {
+        width: 456px;
     }
 }

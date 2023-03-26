@@ -20,12 +20,12 @@
 
 @media screen and (min-width: 1024px) {
     .lead__title {
-        width: calc(100% - 2 * 152px);
+        width: calc(100% - 2 * 104px);
     }
 }
 
 @media screen and (min-width: 1280px) {
     .lead__title {
-        width: 720px;
+        width: calc(100% - 2 * 132px);
     }
 }

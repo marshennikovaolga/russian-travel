@@ -7,11 +7,20 @@
     color: #aaaaaa;
     width: calc(100% - 2 * 16px);
     margin: 0 auto 12px;
+    letter-spacing: 2px;
 }
 
 @media screen and (min-width: 768px) {
     .place__url-heading {
-        width: 46%;
+        width: 352px;
         margin: 0 0 12px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__url-heading {
+        line-height: 20.4px;
+        width: 456px;
+        margin-top: 30px;
     }
 }
