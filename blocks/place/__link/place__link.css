@@ -1,7 +1,7 @@
 .place__link {
     display: flex;
     width: calc(100% - 2 * 16px);
-    margin: 0 auto 32px;
+    margin: 0 auto;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -19,7 +19,6 @@
 @media screen and (min-width: 768px) {
     .place__link {
         width: 352px;
-        margin: 0 0 48px;
     }
 }
 
